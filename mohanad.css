@@ -1,0 +1,73 @@
+
+ /*   *{ 
+   <audio  src="images/musik.mp3" controls="controls" type="audio/mpeg"  preload="preload" ></audio> 
+color: red;
+margin: 0;
+padding: 0;
+text-align: center;*/
+#p1{ 
+   border:dashed 4px red;
+  margin-right: auto;
+  margin-left: auto;
+
+}
+#icon1{
+   border:dashed 2px red;
+  margin-right: auto;
+  margin-left: auto;
+
+}
+#heder1{
+color: red;
+font-size: 35px;
+text-align: center;
+margin: 0;
+padding: 0;
+background-color: blue;
+}
+#heder2 {
+    height: 40px;
+    width: 100%;
+border: dashed 5px  rgb(226, 43, 43);
+padding: auto;
+margin: auto;
+margin-top:auto;
+background-color:rgba(48, 15, 236, 0.753) ;
+margin: 0.1%;
+padding: 0.1%;
+text-align: center;
+   }
+   #heder3 {
+      color: blue;
+     font-size: 60px;
+    text-align: center;
+      margin: 0;
+      padding: 0;
+      background-color: yellow ;
+      font-family: 'Segoe UI';
+   }
+   #bd{
+      height: auto;
+      color:yellow;
+      font-size: 15px;
+      text-align: center;
+      margin: 0;
+      padding: 0;
+      background-color: blue;
+   font-family: 'Segoe UI' ;}
+ #bd1{
+   color: red;
+   font-size: 35px;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   background-color: rgb(157, 157, 163);
+ }
+#bd2{
+   color: red;
+   font-size: 35px;
+   text-align: center;
+   margin: 0;
+   padding: 0;
+   background-color: blue;
+}
